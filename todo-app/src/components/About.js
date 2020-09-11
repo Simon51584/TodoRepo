@@ -6,9 +6,9 @@ class About extends Component {
             <div className="container">
                 <div className="header">
                     <h1>About</h1>
-                    <p>This is a very basic todo application.</p>
-                    <p>Set a task and complete the task.</p>
-                    <p>It's that simple!!!</p>
+                    <h2>This is a very basic todo application.</h2>
+                    <h2>Set a task and complete the task.</h2>
+                    <h2>It's that simple!!!</h2>
                 </div>
             </div>
         )
